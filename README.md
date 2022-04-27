@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @q-rah
 - 👀 I’m interested in staying on the cutting edge of emerging technologies.
 - 🌱 I’m currently learning new software and deep technologies. 
-- 💞️ I’m looking to collaborate on iOT projects. 
 - 📫 Reach me at iamqrah@gmail.com
 
 <!---
